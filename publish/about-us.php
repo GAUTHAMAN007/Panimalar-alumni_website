@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-   <link rel="icon" href="favicon.ico" type="image/ico" />
+   <link rel="icon" href="images/titlelogo.png" type="image/ico" />
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
     <link rel="stylesheet" type="text/css" href="css/animate.css" />
     <link rel="stylesheet" type="text/css" href="css/owl.carousel.css" />
@@ -12,8 +12,8 @@
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
     <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
     <script src="js/libs/modernizr.custom.js"></script>
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/titlelogo.png" type="image/x-icon">
+    <link rel="icon" href="/images/titlelogo.png" type="image/x-icon">
     <title>About Us</title>
 </head>
 <body>
