@@ -59,7 +59,7 @@
                 <div class="header-middle">
                     <div class="container">
                         <div class="logo hidden-sm hidden-xs">
-                            <!-- <a href="#"> <img src="images/logo.png" alt="logo"></a> -->
+                            <a href="#"> <img src="images/logo.png" alt="logo"></a>
                         </div>
                         <!-- <div class="menu">
                         <nav>
@@ -92,14 +92,7 @@
                                             <li><a href="#">Highlights</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown">
-                                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Alumni Activities <span class="caret"></span></a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#">NGO activities</a></li>
-                                            <li><a href="#">College & Alumni Events</a></li>
-                                            <li><a href="#">Calendar of Events</a></li>
-                                        </ul>
-                                    </li>
+
 
                                     <li class="dropdown">
                                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Alumni Activities <span class="caret"></span></a>

@@ -97,14 +97,7 @@
                                         </ul>
                                     </li>
 
-                                    <li class="dropdown">
-                                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Alumni Activities <span class="caret"></span></a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#">NGO activities</a></li>
-                                            <li><a href="#">College & Alumni Events</a></li>
-                                            <li><a href="#">Calendar of Events</a></li>
-                                        </ul>
-                                    </li>
+
                                     <li class="dropdown">
                                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Student Services<span class="caret"></span></a>
                                         <ul class="dropdown-menu">
